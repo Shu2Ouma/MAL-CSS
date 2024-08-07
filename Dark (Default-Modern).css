@@ -14,8 +14,8 @@
 
 /* Estilos para imágenes de portada */
 .cover-block .image-container img {
-  width: 1024px;
-  height: 300px;
+  width: 99.99%;
+  height: 285px;
   border-radius: 10px;
   border: #555 1px solid;
 }
