@@ -82,6 +82,12 @@
   vertical-align: middle;
 }
 
+.list-unit {
+  display: block;
+  margin: 0 auto;
+  width: 90%;
+}
+
 /* Estilos para la tabla de listas */
 .list-table {
   width: 100%;
