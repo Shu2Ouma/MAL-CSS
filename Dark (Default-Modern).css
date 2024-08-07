@@ -262,7 +262,7 @@ a {
 /* Estilos adicionales para menú de estado fijo */
 .status-menu-container.fixed {
   position: fixed;
-  display: block;
+  display: flex;
   top: 0;
 }
 
