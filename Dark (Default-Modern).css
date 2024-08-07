@@ -4,7 +4,7 @@
   height: auto;
   border: #EBEBEB 1px solid;
   border-radius: 10px 3px;
-  transition: all 0.3s ease; /* Añade una transición suave */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Añade una transición suave para transform y box-shadow */
 }
 
 .list-table .list-table-data .data.image .image:hover {
