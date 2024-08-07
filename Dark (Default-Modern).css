@@ -72,7 +72,7 @@
 /* Estilos para el texto del título de la unidad de lista */
 .list-unit .list-status-title .text {
   display: table-cell;
-  width: 1024px;
+  width: auto;
   height: 38px;
   font-size: 2.0em;
   color: #008BAB;
