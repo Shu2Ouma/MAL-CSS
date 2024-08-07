@@ -20,6 +20,10 @@
   border: #555 1px solid;
 }
 
+.status-menu-container.fixed + div.list-block {
+  margin-top: 16px;
+}
+
 /* Estilos para el título de la cabecera */
 .header .header-title {
   position: fixed;
@@ -100,7 +104,7 @@
 .list-unit .list-stats {
   display: none;
   background-color: #191b20;
-  width: 1022.5px;
+  width: 99.87%;
   height: 30px;
   line-height: 30px;
   color: #978eff;
