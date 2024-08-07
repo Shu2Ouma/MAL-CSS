@@ -1,5 +1,5 @@
 /* Estilos para imágenes en tablas */
-.list-table .list-table-data .data .image .image {
+.list-table .list-table-data .data.image .image {
   width: 85%;
   height: auto;
   border: #555 1px solid;
@@ -7,7 +7,7 @@
   transition: all 0.2s ease; /* Transición suave */
 }
 
-.list-table .list-table-data .data .image .image:hover {
+.list-table .list-table-data .data.image .image:hover {
   transform: scale(1.05);
   box-shadow: 0 0 10px rgba(255, 255, 255, 0.7); /* Sombra blanca con desenfoque */
 }
