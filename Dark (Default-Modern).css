@@ -1,10 +1,9 @@
 /* Estilos para imágenes en tablas */
 .list-table .list-table-data .data.image .image {
-  width: 85%;
+  width: 90%;
   height: auto;
-  border: #555 1px solid;
-  border-radius: 10px 3px; /* Redondear esquinas inferior izquierda y superior derecha */
-  transition: all 0.2s ease; /* Transición suave */
+  border: #EBEBEB 1px solid;
+  border-radius: 10px 3px;
 }
 
 .list-table .list-table-data .data.image .image:hover {
